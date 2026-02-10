@@ -1,6 +1,8 @@
+# BUTTERFLY IS UNDER COMMUNITY REVIEW. DO NOT USE.
+<br><br><br><br>
 <img src="https://us-east-1.tixte.net/uploads/cdn.avatarka.ge/butterfly_text.png" width="96">
 
-# BUTTERFLY LICENSE – VERSION 1 (BL-V1)
+# BUTTERFLY LICENSE – VERSION 0.5 (BL-V0.5)
 
 Everyone is permitted to copy and distribute verbatim copies of this license
 document, but modifying it is not allowed.

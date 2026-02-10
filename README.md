@@ -1,2 +1,179 @@
-# butterfly
-A license creators can apply to their projects
+<img src="https://us-east-1.tixte.net/uploads/cdn.avatarka.ge/butterfly_text.png" width="96">
+
+# BUTTERFLY LICENSE – VERSION 1 (BL-V1)
+
+Everyone is permitted to copy and distribute verbatim copies of this license
+document, but modifying it is not allowed.
+
+## 1. DEFINITIONS
+
+- **"Content"** means any work or material provided under this license, in any
+  form or medium, including associated files, assets, media, documentation, or
+  other included components, unless stated otherwise.
+
+- **"Derivative Work"** means any modification, adaptation, translation, remix,
+  or other work based on the Content.
+
+- **"Author"** means the original creator(s) of the Content.
+
+- **"Holder"** means the individual or entity that currently owns the copyright
+  to the Content, whether the Author or a successor in interest.
+
+- **"You"** and **"Your"** mean any person or entity exercising rights under
+  this license.
+
+## 2. LICENSE GRANT
+
+Subject to the terms of this license, the Holder grants You a worldwide,
+royalty-free, non-exclusive, non-transferable license to use the Content in
+personal-use projects.
+
+This license applies only to Content expressly made available under these
+terms. A copy of this license must always accompany the Content and may not be
+removed, modified, or obscured.
+
+You may:
+
+- Use the Content in personal, educational, or creative projects.
+- Create Derivative Works from the Content.
+- Distribute projects incorporating the Content, provided proper attribution is
+  given and the Content is not redistributed as a standalone work.
+
+## 3. PERMITTED USES
+
+This license always permits use of the Content in non-commercial projects. A project is considered non-commercial when access is freely provided,
+without paywalls, fees, or intent to generate income from access to the project
+itself.
+
+### Commercial Use
+
+Limited commercial use is permitted only under these conditions:
+
+- The Content is included solely as a minor component of a larger project.
+- The Content is not the primary product being sold or monetized.
+- Access to the project and the Content remains free.
+
+Permitted monetization methods include:
+
+- Third-party advertising revenue
+- Voluntary support platforms
+- Optional in-app purchases or paid features
+
+Any commercial use beyond these limits requires prior written permission from
+the Holder.
+
+## 4. DISTRIBUTION
+
+Distribution is considered as making the Content or any Derivative Work available to the public, whether directly or as part of a larger project, including reuploading, rehosting, or embedding from existing sources. Redistribution is permitted only when the Content is not made available as a
+standalone work. 
+
+
+You may not:
+- Provide the Content as a direct download, file, or separate asset.
+- Rehost, republish, or embed the Content independently of a larger project.
+- Distribute minimally modified versions of the Content (including, but not limited to minor edits,
+  remasters, re-encodes, pitch or distortion changes, recolorations, format
+  conversions, translations, ports, asset swaps, or other superficial
+  alterations) in a manner intended to replace, substitute, or compete with the
+  Holder's Distribution.
+
+### Monetized Platforms
+
+On supported monetized distribution platforms that enables creators to use existing publications as part of their projects, distribution is permitted only
+through platform-provided embedding to the Holder’s
+designated source location. If no such official source exists, no
+redistribution rights are granted.
+
+### Non-Monetized Platforms
+
+On non-monetized platforms, redistribution is allowed only when the Content is
+bundled internally within a project in a manner not directly accessible outside
+normal project use.
+
+### Derivative Works
+
+Distribution of Derivative Works is allowed only with proper attribution and
+only when the work is clearly identified as modified, adapted, or remixed, such
+that it cannot reasonably be mistaken for the original Content.
+
+You may not claim ownership, authorship outside of Your own modifications, or present any Derivative Work as
+official. Titles, labels, and descriptions must clearly indicate that the work
+is derivative.
+
+## 5. RESTRICTIONS
+
+You may not:
+
+- Use the Content for illegal, exploitative, or harmful purposes.
+- Claim ownership or authorship of the Content.
+- Redistribute, resell, reupload, or package the Content as a standalone work,
+  including minimally modified versions.
+- Use the Content in compilation projects intended primarily to provide access
+  to the Content or substitute the original distribution.
+- Use the Content in connection with unethical, deceptive, or exploitative AI
+  systems, including training without written Author approval.
+- Use the Content in ways that intentionally harm or misrepresent the Author’s
+  or Holder’s reputation, identity, or brand.
+- Remove, alter, or conceal this license or required attribution.
+
+## 6. ATTRIBUTION
+
+Any public use or distribution of the Content or Derivative Works must include
+reasonable attribution, including:
+
+- The title or identifier of the Content, if applicable
+- The Author's name or pseudonym
+- The Holder's entity copyright notice, if applicable
+- Reference to this license and its document or URL
+
+Attribution must not imply endorsement or official association with the Holder
+or Author unless explicitly granted in writing.
+
+## 7. DISCLAIMER
+
+THE CONTENT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. TO THE FULLEST EXTENT PERMITTED BY LAW, THE HOLDER, AUTHOR, AND ANY
+ASSOCIATED PARTIES DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND
+NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE HOLDER, AUTHOR, OR THEIR ASSOCIATES BE LIABLE FOR ANY
+CLAIM, DAMAGES, LOSSES, OR OTHER LIABILITY ARISING FROM THE USE,
+DISTRIBUTION, OR OTHER DEALINGS WITH THE CONTENT.
+
+## 8. INDEMNIFICATION
+
+You agree to indemnify, defend, and hold harmless the Holder, Author, and their
+associates from any claims, liabilities, damages, losses, or expenses arising
+from Your use, modification, or distribution of the Content.
+
+## 9. TERMINATION
+
+This license remains in effect as long as You comply with its terms. If You breach the license with any Content, Your rights to use all Content provided by the Holder or Author under this license are immediately terminated.
+
+Upon termination, You must immediately cease all use of the Content and remove
+all copies in Your possession or control.
+
+## 10. REQUESTING PERMISSIONS
+
+Any use not expressly permitted under this license requires prior written
+consent from the Holder. Granting permissions is at the Holder’s sole
+discretion.
+
+## 11. AUTHOR RIGHTS AND HOLDER LIMITATIONS
+
+Regardless of any transfer of copyright ownership, the Author retains the
+perpetual right to display, reference, and reproduce the Content for portfolio,
+archival, and self-promotional purposes, unless explicitly agreed otherwise in
+writing.
+
+If the Holder is not the Author, the Holder may not relicense, replace, or
+redistribute the Content under different terms without the Author’s prior
+written consent.
+
+The Author may request that the Holder adopt a newer or older version of this
+license with reasonable justification, but the Holder is not required to accept
+such a request.
+
+No change of license may retroactively revoke rights already granted to You,
+provided You were in compliance at the time of use.

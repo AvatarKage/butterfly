@@ -1,3 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Butterfly License</title>
+  <style>
+    /* Dark mode styling */
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: 'Rethink Sans', Tahoma, Geneva, Verdana, sans-serif;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+
+    a {
+      color: #80cbc4;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    pre {
+      background-color: #1e1e1e;
+      padding: 1rem;
+      overflow-x: auto;
+      border-radius: 5px;
+    }
+
+    code {
+      background-color: #1e1e1e;
+      padding: 0.2rem 0.4rem;
+      border-radius: 3px;
+      font-family: monospace;
+    }
+
+    h1, h2, h3 {
+      color: #ffffff;
+    }
+
+    img {
+      max-width: 100px;
+      margin-bottom: 1rem;
+    }
+
+    blockquote {
+      border-left: 4px solid #80cbc4;
+      padding-left: 1rem;
+      color: #b0bec5;
+      margin: 1rem 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="content"></div>
+
+  <!-- Include marked.js for Markdown rendering -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    // Your Markdown content
+    const md = `
 # BUTTERFLY IS UNDER COMMUNITY REVIEW. DO NOT USE.
 <br><br><br><br>
 <img src="https://us-east-1.tixte.net/uploads/cdn.avatarka.ge/butterfly_text.png" width="96">
@@ -179,3 +243,9 @@ such a request.
 
 No change of license may retroactively revoke rights already granted to You,
 provided You were in compliance at the time of use.
+`;
+
+    document.getElementById('content').innerHTML = marked.parse(md);
+  </script>
+</body>
+</html>

@@ -7,11 +7,18 @@
   <style>
     /* Dark mode styling */
     body {
-      background-color: #121212;
+      background-color: #051e34;
       color: #e0e0e0;
       font-family: 'Rethink Sans', Tahoma, Geneva, Verdana, sans-serif;
-      padding: 2rem;
+      padding: 32px;
       line-height: 1.6;
+    }
+
+    /* For larger screens / desktops */
+    @media (min-width: 1024px) {
+      body {
+        padding: 32px 300px;
+      }
     }
 
     a {
@@ -62,9 +69,11 @@
   <script>
     // Your Markdown content
     const md = `
-# BUTTERFLY IS UNDER COMMUNITY REVIEW. DO NOT USE.
-<br><br><br><br>
-<img src="https://us-east-1.tixte.net/uploads/cdn.avatarka.ge/butterfly_text.png" width="96">
+##### BUTTERFLY IS UNDER COMMUNITY REVIEW. DO NOT USE.
+<br><br>
+<img 
+  src="https://us-east-1.tixte.net/uploads/cdn.avatarka.ge/butterfly_white.png" 
+  style="width: 100%; max-width: 96px; display: block; margin: 0 auto;">
 
 # BUTTERFLY LICENSE – VERSION 0.5 (BL-V0.5)
 

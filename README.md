@@ -1,0 +1,1 @@
+The Butterfly License gives creators clear legal control over their work, allowing personal, educational, and derivative use while restricting standalone redistribution, exploitative practices, and unapproved commercial use.
